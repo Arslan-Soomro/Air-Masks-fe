@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@400;700&family=Staatliches&display=swap');
+
 #product-items{
 	width: 95%;
 	height: 100%;
@@ -24,7 +26,8 @@
 
 #product-heading{
 	font-size: 70px;
-	font-family: montserrat-bold;
+	font-family: montserrat;
+	font-weight: 700;
 	color: #2E2E2E;
 	animation: fadeIn ease 0.5s;
 	position: relative;
@@ -32,7 +35,8 @@
 
 #product-msg{
 	font-size: 30px;
-	font-family: montserrat-light;
+	font-family: montserrat;
+	font-weight: 400;
 	color: #2E2E2E;
 	animation: fadeIn ease 0.5s;
 	position: relative;

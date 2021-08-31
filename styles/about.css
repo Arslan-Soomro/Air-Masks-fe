@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@400;700&family=Staatliches&display=swap');
+
 #about-cont{
 	width: 95%;
 	height:90%;
@@ -11,7 +13,8 @@
 	text-align: center;
 	margin-top: 40px;
 	font-size: 80px;
-	font-family: montserrat-bold;
+	font-family: montserrat;
+	font-weight: 700;
 	color: blue;
 	width: 80%;
 	animation: fadeIn ease 0.5s;
@@ -22,7 +25,8 @@
 	text-align: center;
 	margin-top: 30px;
 	font-size: 25px;
-	font-family: montserrat-light;
+	font-family: montserrat;
+	font-weight: 400;
 	color: #323232;
 	width: 70%;
 	line-height: 45px;
@@ -33,7 +37,8 @@
 #about-backdrop-text{
 	color: #E0E0E0;
 	font-size: 400px;
-	font-family: montserrat-bold;
+	font-family: montserrat;
+	font-weight: 700;
 	position: absolute;
 	z-index: -1;
 	top: 300px;

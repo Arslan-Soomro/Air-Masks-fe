@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@300;700&family=Staatliches&display=swap');
+
 #contact-cont{
 	width:95%;
 	height: 100%;
@@ -13,13 +15,15 @@
 }
 
 #contact-heading{
-	font-family: montserrat-bold;
+	font-family: montserrat;
+	font-weight: 700;
 	font-size: 130px;
 	color: blue;
 }
 
 #contact-msg{
-	font-family: montserrat-light;
+	font-family: montserrat;
+	font-weight: 300;
 	font-size: 30px;
 	color: #323232;
 }
@@ -39,7 +43,8 @@
 }
 
 #contact-box-heading{
-	font-family: montserrat-bold;
+	font-family: montserrat;
+	font-weight: 700;
 	font-size: 30px;
 	color: blue;
 	margin-bottom: 5px;
@@ -70,7 +75,8 @@
 	border-bottom: 0px solid blue;
 	border-bottom: 1px solid blue;
 	color: #323232;
-	font-family: montserrat-light;
+	font-family: montserrat;
+	font-weight: 700;
 	padding: 10px 10px;
 	font-size: 20px;
 	border-radius: 5px;
@@ -109,7 +115,8 @@
 #contact-backdrop-text{
 	position: absolute;
 	font-size: 400px;
-	font-family: montserrat-bold;
+	font-family: montserrat;
+	font-weight: 700;
 	color: #E9E9E9;
 	z-index: -1;
 	top: 100px;
